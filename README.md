@@ -1,147 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4AA&height=200&section=header&text=Saleh%20Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Mobile%20Application%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Dark Techy Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4AA&height=250&section=header&text=Saleh%20Ahmad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Mobile%20%26%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Flutter+%7C+Dart+%7C+Mobile+Dev+%F0%9F%9A%80;Building+Apps+Across+6%2B+Domains+%F0%9F%8C%90;Clean+Architecture+%7C+MVVM+%7C+BLoC+%F0%9F%8F%97%EF%B8%8F;AI+Integration+%7C+Real-Time+Tracking+%F0%9F%93%8D)](https://git.io/typing-svg)
+<!-- Terminal Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Mobile+Dev%3A+Flutter+%7C+React+Native;Full-Stack%3A+Node.js+%7C+Next.js+%7C+NestJS;AI+%26+Backend%3A+Python+%7C+FastAPI+%7C+LangGraph;Building+Intelligent+Cross-Platform+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/salehahmad798">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
   </a>
   <a href="mailto:salehpub.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
   </a>
   <a href="tel:+923254615798">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
   </a>
 </p>
 
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=salehahmad798&label=PROFILE+VIEWS&color=00D4AA&style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<a href="https://github.com/salehahmad798?tab=followers">
+  <img src="https://img.shields.io/github/followers/salehahmad798?label=FOLLOWERS&style=for-the-badge&color=6C63FF&labelColor=0d1117" />
+</a>
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║           > SYSTEM INITIALIZATION SEQUENCE STARTED...              ║
+║           > LOADING SALEH AHMAD CORE v3.0 ...                      ║
+║           > MODULES COMPILING: MOBILE, FULL-STACK, AI              ║
+║           > STATUS: ONLINE ✅                                       ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 🧠 `$ cat developer.dart`
 
 ```dart
-class SalehAhmad extends FlutterDeveloper {
+class SalehAhmad extends AI_And_MobileDeveloper {
 
   final String location     = "Lahore, Pakistan 🇵🇰";
-  final String experience   = "1.5+ Years in Production Mobile Dev";
-  final String currentRole  = "Associate Flutter Developer @ SoftSolvix";
+  final String experience   = "1.5+ Years in Production Dev";
+  final String currentRole  = "Associate Developer @ SoftSolvix";
 
   final List<String> domains = [
-    "Real Estate 🏠", "Vehicle Tracking 🚗", "AI Solutions 🤖",
+    "AI-Powered Solutions 🤖", "Real Estate 🏠", "Vehicle Tracking 🚗",
     "E-Commerce 🛍️", "Booking Platforms ✈️", "Service Marketplace 🔧"
   ];
 
-  final List<String> learning = [
-    "FastAPI Backend Development",
-    "Native Android with Kotlin",
-    "AI & ML Integration"
-  ];
+  final Map<String, String> currentFocus = {
+    "Mobile": "Advanced Animations & Clean Architecture",
+    "Backend": "Microservices with NextJS & NestJS",
+    "AI/ML": "LangGraph & Autonomous Agents Execution"
+  };
 
-  String get motto => "Pixel-perfect UI. Clean code. Shipped products.";
+  String get motto => "Pixel-perfect UI. Intelligent Backend. Shipped products.";
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
+### 📱 Mobile Development
 <div align="center">
-
-**📱 Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**⚙️ State Management**
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-0288D1?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+</div>
 
-**🔥 Backend & Database**
+### 🕸️ Full-Stack Web Backend
+<div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
+
+### 🤖 AI, Data Sciences & Machine Learning
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ibm&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9BF0?style=for-the-badge&logo=keras&logoColor=white)
+![LangGraph](https://img.shields.io/badge/AI_Agents-LangGraph-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+</div>
+
+### 🗄️ Databases & Cloud
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+</div>
 
-**🗺️ APIs & Tools**
+### 🛠️ DevOps & Tools
+<div align="center">
 
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**🤖 AI / Learning**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Production Projects
 
 <div align="center">
 
-| 🏷️ App | 📝 Description | 🔗 |
+| 🏷️ App | 📝 Description | Stack / Tech |
 |---|---|---|
-| ✈️ **JetClass** | Premium online jet booking with real-time flow & payments | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
-| 🏠 **Sakan** | Real estate platform with Google Maps & agent comms | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
-| 🐶 **Dog Breed Scanner** | AI-powered real-time dog breed detection from camera | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
-| 🛍️ **Ethnic** | Full-featured e-commerce app with cart & checkout | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
-| 🚗 **UTS** | Live GPS vehicle tracking with Google Maps routes | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
-| 🔧 **Home Services** | Service marketplace with multi-role architecture | [![Play Store](https://img.shields.io/badge/▶_Play_Store-414141?style=flat-square&logo=google-play)](YOUR_LINK) |
+| 🐶 **Dog Breed Scanner** | AI-powered real-time dog breed detection from camera | **Flutter, Computer Vision (CV), ML** |
+| ✈️ **JetClass** | Premium online jet booking with real-time flow & payments | **Flutter, Stripe, Firebase** |
+| 🏠 **Sakan** | Real estate platform with Google Maps & agent comms | **Flutter, MapKit, Node.js** |
+| 🛍️ **Ethnic** | Full-featured e-commerce app with cart & checkout | **React Native / Flutter, NestJS** |
+| 🚗 **UTS** | Live GPS vehicle tracking with Google Maps routes | **Flutter, WebSockets, MongoDB** |
+| 🔧 **Home Services** | Service marketplace with multi-role architecture | **Flutter, Python Backend** |
+
+</div>
+
+> ⚙️ _Available on Play Store & App Store respectively._
+
+---
+
+## 📊 Developer Metrics & Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=salehahmad798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4AA&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmad798&theme=tokyonight&hide_border=true&ring=00D4AA&fire=6C63FF&currStreakLabel=00D4AA&background=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehahmad798&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=salehahmad798&bg_color=0d1117&color=00D4AA&line=6C63FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=6" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=00D4AA&currStreakLabel=6C63FF" width="60%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salehahmad798/salehahmad798/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salehahmad798/salehahmad798/output/github-snake.svg" />
+  <!-- To generate the snake, setup a GitHub Action! -->
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/salehahmad798/salehahmad798/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=00D4AA&point=ffffff"/>
+<img src="https://github-profile-trophy.vercel.app/?username=salehahmad798&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -149,16 +196,16 @@ class SalehAhmad extends FlutterDeveloper {
 
 ## 💼 Experience Timeline
 
-```
-🎓 2022 ──────── B.Sc. Computer Science, University of Education Lahore
+```text
+🎓 2022 ──────── B.Sc. Computer Science
                         │
 💡 May 2024 ──── Flutter Developer Intern @ Appisol
                   └─ Built UI widgets, integrated APIs & Firebase
                         │
-🚀 Aug 2024 ──── Associate Flutter Developer @ SoftSolvix  ◄── (Current)
+🚀 Aug 2024 ──── Associate Developer @ SoftSolvix  ◄── (Current)
                   └─ 6 production apps across diverse domains
-                  └─ Google Maps, real-time tracking, AI integration
-                  └─ Clean Architecture, BLoC, GetX, Provider
+                  └─ NextJS, NestJS, FastAPI backend integrations
+                  └─ AI, ML Models, LangGraph agents & Computer Vision
 ```
 
 ---
@@ -167,10 +214,10 @@ class SalehAhmad extends FlutterDeveloper {
 
 ### 💬 Let's Connect & Build Something Amazing!
 
-*"Great apps aren't just coded — they're crafted."*
+*"Great applications aren't just coded — they're intelligent, scalable, and beautifully crafted."*
 
 <br/>
 
+<!-- Footer Waving animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:6C63FF&height=120&section=footer" width="100%"/>
-
 </div>
