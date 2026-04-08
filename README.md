@@ -1,33 +1,31 @@
 <div align="center">
 
-<!-- Dark Techy Waving Header -->
+<!-- Animated Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4AA&height=250&section=header&text=Saleh%20Ahmad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Mobile%20%26%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Terminal Typing Effect -->
+<!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Mobile+Dev%3A+Flutter+%7C+React+Native;Full-Stack%3A+Node.js+%7C+Next.js+%7C+NestJS;AI+%26+Backend%3A+Python+%7C+FastAPI+%7C+LangGraph;Building+Intelligent+Cross-Platform+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=750&lines=Mobile+Dev%3A+Flutter+%7C+React+Native%F0%9F%93%B1;Full-Stack%3A+Node.js+%7C+Next.js+%7C+NestJS%E2%9A%99%EF%B8%8F;AI+%26+Data%3A+Python+%7C+FastAPI+%7C+LangGraph%F0%9F%A4%96;Turning+Ideas+Into+Intelligent+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Animated Social Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://github.com/salehahmad798">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
   </a>
   <a href="mailto:salehpub.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
-  </a>
-  <a href="tel:+923254615798">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
   </a>
 </p>
 
-<!-- Badges Row -->
+<!-- Animated Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=salehahmad798&label=PROFILE+VIEWS&color=00D4AA&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <a href="https://github.com/salehahmad798?tab=followers">
@@ -50,7 +48,9 @@
 
 </div>
 
-## 🧠 `$ cat developer.dart`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=%3E_cat+developer.dart;%3E_Initializing+Brain..." alt="developer.dart"/>
+</div>
 
 ```dart
 class SalehAhmad extends AI_And_MobileDeveloper {
@@ -76,78 +76,70 @@ class SalehAhmad extends AI_And_MobileDeveloper {
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
-### 📱 Mobile Development
 <div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0288D1?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=%E2%9A%94%EF%B8%8F+Tech+Stack+%26+Arsenal+%E2%9A%94%EF%B8%8F" alt="Tech Stack"/>
 </div>
 
-### 🕸️ Full-Stack Web Backend
+### 📱 Mobile Architecture & UI
 <div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,android,kotlin,swift,apple&theme=dark" alt="Mobile Stack"/>
+  </a>
 </div>
 
-### 🤖 AI, Data Sciences & Machine Learning
-<div align="center">
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ibm&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9BF0?style=for-the-badge&logo=keras&logoColor=white)
-![LangGraph](https://img.shields.io/badge/AI_Agents-LangGraph-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+### 🕸️ Full-Stack Backend Ecosystem
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,nestjs,fastapi,cloudflare,nginx&theme=dark" alt="Backend Stack"/>
+  </a>
 </div>
 
-### 🗄️ Databases & Cloud
-<div align="center">
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+### 🤖 AI, Machine Learning & Python Mastery
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,ts,wasm&theme=dark" alt="AI Stack"/>
+  </a>
 </div>
 
-### 🛠️ DevOps & Tools
-<div align="center">
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+### 🗄️ Database, Cloud & DevOps
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,prisma,docker,git,github,linux,aws&theme=dark" alt="Database and Cloud"/>
+  </a>
+</div>
+
+<br/>
+
+### 🛠️ Architecture, UI/UX Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,postman,vscode,androidstudio,idea,kali&theme=dark" alt="Tools"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 Featured Production Projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Featured+Production+Apps+%F0%9F%9A%80" alt="Projects"/>
+</div>
 
+<br/>
 <div align="center">
 
-| 🏷️ App | 📝 Description | Stack / Tech |
-|---|---|---|
-| 🐶 **Dog Breed Scanner** | AI-powered real-time dog breed detection from camera | **Flutter, Computer Vision (CV), ML** |
-| ✈️ **JetClass** | Premium online jet booking with real-time flow & payments | **Flutter, Stripe, Firebase** |
-| 🏠 **Sakan** | Real estate platform with Google Maps & agent comms | **Flutter, MapKit, Node.js** |
-| 🛍️ **Ethnic** | Full-featured e-commerce app with cart & checkout | **React Native / Flutter, NestJS** |
-| 🚗 **UTS** | Live GPS vehicle tracking with Google Maps routes | **Flutter, WebSockets, MongoDB** |
-| 🔧 **Home Services** | Service marketplace with multi-role architecture | **Flutter, Python Backend** |
+| 🏷️ App | 📝 Description | Stack | Tools |
+|---|---|---|---|
+| 🐶 **Dog Breed Scanner** | AI-powered real-time dog breed detection from camera | **Flutter, CV, ML** | <img src="https://skillicons.dev/icons?i=flutter,python,tensorflow&theme=dark" width="90"/> |
+| ✈️ **JetClass** | Premium online jet booking with real-time flow & payments | **Flutter, Firebase** | <img src="https://skillicons.dev/icons?i=flutter,firebase,gcp&theme=dark" width="90"/> |
+| 🏠 **Sakan** | Real estate platform with Maps & comms | **Flutter, Node.js** | <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb&theme=dark" width="90"/> |
+| 🛍️ **Ethnic** | Full-featured e-commerce app with cart & checkout | **React Native, NestJS** | <img src="https://skillicons.dev/icons?i=react,nestjs,postgres&theme=dark" width="90"/> |
+| 🚗 **UTS** | Live GPS vehicle tracking with Google Maps routes | **Flutter, WebSockets** | <img src="https://skillicons.dev/icons?i=flutter,nodejs,docker&theme=dark" width="90"/> |
+| 🔧 **Home Services** | Service marketplace with multi-role architecture | **Flutter, FastAPI** | <img src="https://skillicons.dev/icons?i=flutter,fastapi,python&theme=dark" width="90"/> |
 
 </div>
 
@@ -155,7 +147,9 @@ class SalehAhmad extends AI_And_MobileDeveloper {
 
 ---
 
-## 📊 Developer Metrics & Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Developer+Metrics+%26+Stats+%F0%9F%93%8A" alt="Stats"/>
+</div>
 
 <div align="center">
 
@@ -169,7 +163,9 @@ class SalehAhmad extends AI_And_MobileDeveloper {
 
 ---
 
-## 🐍 GitHub Contributions
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+GitHub+Contributions+%F0%9F%90%8D" alt="Contributions"/>
+</div>
 
 <div align="center">
 
@@ -184,7 +180,9 @@ class SalehAhmad extends AI_And_MobileDeveloper {
 
 ---
 
-## 🏆 Achievements & Trophies
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Achievements+%26+Trophies+%F0%9F%8F%86" alt="Trophies"/>
+</div>
 
 <div align="center">
 
@@ -194,7 +192,9 @@ class SalehAhmad extends AI_And_MobileDeveloper {
 
 ---
 
-## 💼 Experience Timeline
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%BC+Experience+Timeline+%F0%9F%92%BC" alt="Experience"/>
+</div>
 
 ```text
 🎓 2022 ──────── B.Sc. Computer Science
