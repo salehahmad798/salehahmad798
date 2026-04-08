@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/salehahmad798">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=750&lines=Mobile+Dev%3A+Flutter+%7C+React+Native%F0%9F%93%B1;Full-Stack%3A+Node.js+%7C+Next.js+%7C+NestJS%E2%9A%99%EF%B8%8F;AI+%26+Data%3A+Python+%7C+FastAPI+%7C+LangGraph%F0%9F%A4%96;Turning+Ideas+Into+Intelligent+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -14,7 +14,7 @@
 
 <!-- Animated Social Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/salehahmad798/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://github.com/salehahmad798">
@@ -38,12 +38,19 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║           > SYSTEM INITIALIZATION SEQUENCE STARTED...              ║
-║           > LOADING SALEH AHMAD CORE v3.0 ...                      ║
-║           > MODULES COMPILING: MOBILE, FULL-STACK, AI              ║
-║           > STATUS: ONLINE ✅                                       ║
-╚════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                     🚀 SYSTEM INITIALIZATION SEQUENCE                      ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  > Booting: SALEH_AHMAD_CORE v3.0                                          ║
+║  > Role: Flutter Developer | Full-Stack Engineer | AI Enthusiast           ║
+║  > Initializing Modules:                                                   ║
+║       • 📱 Mobile Development (Flutter)                                    ║
+║       • 🌐 Full-Stack Systems                                              ║
+║       • 🤖 AI & Automation                                                 ║
+║  > Loading Skills: Clean Architecture | Scalable Apps | API Integration    ║
+║  > Status: ONLINE ✅                                                       ║
+║  > Availability: Open for Opportunities 🚀                                 ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -53,24 +60,102 @@
 </div>
 
 ```dart
-class SalehAhmad extends AI_And_MobileDeveloper {
+class SalehAhmad extends FullStackAIDeveloper {
 
+  // 🌍 Basic Info
   final String location     = "Lahore, Pakistan 🇵🇰";
-  final String experience   = "1.5+ Years in Production Dev";
-  final String currentRole  = "Associate Developer @ SoftSolvix";
+  final String experience   = "1.5+ Years in Production Development";
+  final String currentRole  = "Associate Software Engineer @ SoftSolvix";
 
+  // 🧠 Core Domains
   final List<String> domains = [
-    "AI-Powered Solutions 🤖", "Real Estate 🏠", "Vehicle Tracking 🚗",
-    "E-Commerce 🛍️", "Booking Platforms ✈️", "Service Marketplace 🔧"
+    "AI-Powered Solutions 🤖",
+    "E-Commerce Ecosystems 🛍️",
+    "FinTech & Payment Systems 💳",
+    "Real Estate Platforms 🏠",
+    "On-Demand & Service Apps 🚀",
+    "Vehicle Tracking & IoT 🚗",
+    "Healthcare & Telemedicine 🏥",
+    "EdTech Platforms 📚",
+    "Social & Messaging Apps 💬",
+    "Logistics & Delivery Systems 📦",
+    "SaaS & Cloud Applications ☁️",
+    "Enterprise Solutions 🏢",
+    "Streaming & Media Platforms 🎬",
+    "Food Delivery Systems 🍔",
+    "Travel & Booking Platforms ✈️",
+    "Job Portals & Recruitment 💼",
+    "Event Management Systems 🎉",
+    "Blockchain & Web3 Apps ⛓️",
+    "Cybersecurity Tools 🔐",
+    "Data Analytics Dashboards 📊"
   ];
 
-  final Map<String, String> currentFocus = {
-    "Mobile": "Advanced Animations & Clean Architecture",
-    "Backend": "Microservices with NextJS & NestJS",
-    "AI/ML": "LangGraph & Autonomous Agents Execution"
+  // ⚙️ Tech Stack (Full-Stack + AI)
+  final Map<String, List<String>> techStack = {
+
+    "Mobile": [
+      "Flutter 📱",
+      "Dart",
+      "GetX / Provider",
+      "Clean Architecture"
+    ],
+
+    "Frontend": [
+      "Next.js ⚡",
+      "React.js",
+      "Tailwind CSS",
+      "Responsive UI/UX"
+    ],
+
+    "Backend": [
+      "Node.js 🟢",
+      "NestJS",
+      "Express.js",
+      "REST APIs",
+      "Microservices Architecture"
+    ],
+
+    "Python & AI": [
+      "FastAPI ⚡",
+      "LangChain / LangGraph 🤖",
+      "Autonomous AI Agents",
+      "OpenAI APIs",
+      "AI Integrations"
+    ],
+
+    "Database & BaaS": [
+      "Firebase 🔥",
+      "Supabase 🧩",
+      "Appwrite 🚀",
+      "MongoDB 🍃",
+      "PostgreSQL 🐘"
+    ],
+
+    "Tools & DevOps": [
+      "Git & GitHub 🧑‍💻",
+      "Docker 🐳",
+      "CI/CD Pipelines",
+      "Postman",
+      "VS Code"
+    ]
   };
 
-  String get motto => "Pixel-perfect UI. Intelligent Backend. Shipped products.";
+  // 🎯 Current Focus
+  final Map<String, String> currentFocus = {
+    "Mobile": "Advanced UI Animations & Scalable Architecture",
+    "Backend": "Microservices with Node.js & NestJS",
+    "AI/ML": "FastAPI + LangGraph Autonomous Systems",
+    "Cloud": "Firebase, Supabase & Appwrite Integration"
+  };
+
+  // 🚀 Philosophy
+  String get motto =>
+      "Pixel-perfect UI. Scalable Backend. Intelligent AI. Production-ready systems.";
+
+  // 🔥 Signature
+  String get signature =>
+      "Building future-ready apps with Flutter, Python, Node.js & AI ⚡";
 }
 ```
 
@@ -196,17 +281,30 @@ class SalehAhmad extends AI_And_MobileDeveloper {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%BC+Experience+Timeline+%F0%9F%92%BC" alt="Experience"/>
 </div>
 
-```text
-🎓 2022 ──────── B.Sc. Computer Science
-                        │
-💡 May 2024 ──── Flutter Developer Intern @ Appisol
-                  └─ Built UI widgets, integrated APIs & Firebase
-                        │
-🚀 Aug 2024 ──── Associate Developer @ SoftSolvix  ◄── (Current)
-                  └─ 6 production apps across diverse domains
-                  └─ NextJS, NestJS, FastAPI backend integrations
-                  └─ AI, ML Models, LangGraph agents & Computer Vision
-```
+## ⚡ Career Journey
+
+### 🎓 2022 — B.Sc. Computer Science
+Built a strong foundation in **DSA, OOP, and Software Engineering**, shaping a problem-solving mindset.
+
+---
+
+### 💡 May 2024 — Flutter Developer Intern @ Appisol
+- Developed **scalable Flutter UI components**
+- Integrated **REST APIs & Firebase 🔥**
+- Implemented **Clean Architecture & state management**
+- Focused on **performance & UX optimization**
+
+---
+
+### 🚀 Aug 2024 – Present — Associate Developer @ SoftSolvix
+- Delivered **6+ production-grade applications**
+- **Mobile:** Flutter (pixel-perfect, scalable UI)
+- **Backend:** Node.js (Next.js, NestJS), FastAPI ⚙️
+- **Cloud:** Firebase, Supabase, Appwrite ☁️
+- **AI:** LangGraph, ML Models, Computer Vision 🤖
+- Designed **scalable systems & real-world solutions**
+
+> 💡 *Building intelligent apps that scale — from UI to AI systems.*
 
 ---
 
